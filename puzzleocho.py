@@ -47,4 +47,6 @@ class PuzzleState:
                     return i, j 
     
 
+def hola(): 
+    return "hola mundo"
 
